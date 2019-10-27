@@ -12,7 +12,7 @@ Business Ecommerce is a fully customizable theme, which You can use to develop a
 
 == Copyright ==
 
-Business Ecommerce WordPress Theme, Copyright 2019 www.wpbusinessthemes.com
+Business Ecommerce WordPress Theme, Copyright 2019 WP Business Themes
 Business Ecommerce is distributed under the terms of the GNU GPL
 
 This program is free software: you can redistribute it and/or modify
